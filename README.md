@@ -3,15 +3,15 @@ Plusieurs information ici :
 
 1/ Nous vous remercions de compléter l'enquête de satisfaction suivante au fil de l'EPU :
 
--  Bases de statistiques (Mardi) : https://docs.google.com/forms/d/e/1FAIpQLSfon3OPJJVfm-OYz-053aqLe668qA6zDlOFh4bzowEOGLjGsQ/viewform?usp=header
+-  Bases de statistiques : 
 
-- Bases de machine learning et travail dirigé (Mardi/Mercredi/Jeudi) : https://docs.google.com/forms/d/e/1FAIpQLSchPV_w48pzk7bFlaBno0BpcsQZ_JDN_aNLz1F5lycKqHVtKQ/viewform?usp=header
+- Bases de machine learning et travail dirigé : 
 
-- Bases de deep learning et travail dirigé (Mardi/Mercredi/Jeudi) : https://docs.google.com/forms/d/e/1FAIpQLScHPGIg_0EH4I7nmi3q39Ys68XgMm1y1xkuHeDL9II9K0eMEQ/viewform?usp=header
+- Bases de deep learning et travail dirigé :
 
-- Applications/REX en physique médicale (Mercredi/jeudi) : https://docs.google.com/forms/d/e/1FAIpQLSeE-YGUa7ASazz1HP9CB9Gq43RXu1NqycRcS0ymTFBhahJipg/viewform?usp=header
+- Applications/REX en physique médicale :
 
-- Bilan global (Vendredi) : https://docs.google.com/forms/d/e/1FAIpQLSeE-YGUa7ASazz1HP9CB9Gq43RXu1NqycRcS0ymTFBhahJipg/viewform?usp=header
+- Bilan global :
     
 2/ Vous trouverez les codes de chaque jour et d'autres documents utiles.
 
